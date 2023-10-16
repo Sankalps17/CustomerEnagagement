@@ -31,7 +31,7 @@ Before getting started, make sure you have the following prerequisites in place:
 - [Power Apps](https://powerapps.microsoft.com/)
 - [Power Automate](https://powerautomate.microsoft.com/)
 - [AI Builder](https://powerapps.microsoft.com/en-us/ai-builder/)
-- Azure Resources (Provide links to relevant Azure services or resources)
+- Azure Resources
 
 ### Installation
 
